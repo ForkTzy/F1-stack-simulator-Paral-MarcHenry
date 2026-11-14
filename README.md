@@ -24,4 +24,9 @@ This is the unfinished repository for a pre-demo reading activity. Read `Flask_P
 
 During the demo, the instructor will convert static paths into url_for calls, connect form submission, introduce Jinja variables and loops, and connect Python stack operations. The three HTML files are intentionally independent before that conversion.
 
+# Flask Stack Simulator (Pre-Demo Activity)
 
+- **Name:** Marc Henry D. Paral
+- **Section:** BSIT WMT 4-2
+- **Original Starter Repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+- **Description:** Pre-demo starter repository for the ELEC 4 Python and Flask Stack Simulator activity, exploring how HTML, CSS, Bootstrap, JavaScript, jQuery, Jinja, and Python routes connect together before implementing the backend stack operations.
